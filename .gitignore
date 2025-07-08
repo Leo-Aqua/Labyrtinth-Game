@@ -1,3 +1,4 @@
 .~lock*
 config.properties
 *.class
+~$*.odt
