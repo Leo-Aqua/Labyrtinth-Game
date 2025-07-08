@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Settings
+comment1.params=key
+comment1.target=java.lang.String\ get(java.lang.String)
+comment2.params=key\ value
+comment2.target=void\ set(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ save()
+numComments=4
