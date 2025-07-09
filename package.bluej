@@ -2,10 +2,10 @@
 dependency1.from=GameController
 dependency1.to=Settings
 dependency1.type=UsesDependency
-editor.fx.0.height=1026
-editor.fx.0.width=1696
-editor.fx.0.x=-8
-editor.fx.0.y=-8
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=99
+editor.fx.0.y=127
 objectbench.height=175
 objectbench.width=1656
 package.divider.horizontal=0.6
